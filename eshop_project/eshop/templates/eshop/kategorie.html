@@ -1,0 +1,17 @@
+{% extends 'eshop/layout.html' %}
+
+{% block eshop_content %}
+<h1 title="Kategorie">Kategorie</h1>
+
+<aside class="menu">
+    <p class="menu-label">Kategorie</p>
+    <ul class="-menu-list">
+        {% for item in object_list %}
+        <li>
+            <a href="{{ item.get_absolute_url }}">{{ item.nazev }}</a>
+        </li>
+        {% endfor %}
+    </ul>
+</aside>
+
+{% endblock %}

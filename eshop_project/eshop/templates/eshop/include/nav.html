@@ -1,0 +1,41 @@
+<nav class="navbar" role="navigation" aria-label="main navigation" xmlns="http://www.w3.org/1999/html">
+    <div class="navbar-brand">
+        <a class="navbar-item" href="{% url 'eshop:index' %}">
+            <img src="https://bulma.io/images/bulma-logo.png" width="112" height="28">
+        </a>
+
+        <a class="navbar-item" href="{% url 'eshop:kategorie_list' %}">
+            Kategorie
+        </a>
+        <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+        </a>
+    </div>
+
+    <div id="navbarBasicExample" class="navbar-menu">
+        <div class="navbar-start">
+            <a class="navbar-item" href="{% url 'eshop:produkt_list' %}">
+                Produkty
+            </a>
+            <a class="navbar-item">
+                Link3
+            </a>
+
+        </div>
+
+
+        <div class="navbar-end">
+            <a class="navbar-item">
+                <strong>Link4</strong>
+            </a>
+            <a class="navbar-item">
+                <strong>Link5</strong>
+            </a>
+            <a class="navbar-item">
+                <strong>Link6</strong>
+            </a>
+        </div>
+    </div>
+</nav>

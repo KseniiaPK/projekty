@@ -1,0 +1,24 @@
+
+{% extends 'eshop/layout.html' %}
+{% block eshop_content %}
+<h1 class="title">{{znacka.nazev}}</h1>
+
+    <div class="columns is-multiline">
+        <ul class="menu-list">
+            {% for produkt in produkty %}
+            <li>
+                <a href="{{produkt.get_absolute_url}}">
+                    <img src="https://picsum.photos/300/200?{{forloop.counter}}" alt="">
+                    <div>{{produkt}}</div>
+                </a>
+
+            </li>
+            {% endfor %}
+        </ul>
+
+
+
+    </div>
+
+
+{% endblock %}

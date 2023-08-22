@@ -1,0 +1,104 @@
+{% extends 'eshop/layout.html' %}
+{% block eshop_content%}
+<style>
+
+body {
+    font-family: Arial, sans-serif;
+}
+h1 {
+    font-family: "Times New Roman", serif;
+}
+
+p {
+    font-family: Verdana, sans-serif;
+}
+
+main {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 2em;
+}
+
+.product-image img {
+    max-width: 100%;
+    height: auto;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.product-details {
+    max-width: 400px;
+    padding: 1em;
+    background-color: white;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.product-details h2 {
+
+    font-size: 1.8em;
+    color: gray;
+    margin-bottom: 0.5em;
+}
+
+.product-details p {
+    color: gray;
+    line-height: 1.4;
+    margin-bottom: 1em;
+}
+
+button {
+    background-color: black;
+    color: white;
+    padding: 0.5em 1em;
+    cursor: pointer;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+
+}
+
+footer {
+    text-align: center;
+    padding: 1em 0;
+    background-color: black;
+    color: white;
+}
+
+
+</style>
+<body>
+    <header>
+        <h1 class = 'title'>{{product.nazev}}</h1>
+    </header>
+
+    <main>
+        <div class="product-details">
+            <h2>Popis</h2>
+            <p>{{produkt.popis}}</p>
+            <hr>
+
+            <h2>Cena</h2>
+            <p>{{produkt.aktualni_cena}}</p>
+            <hr>
+
+            <h2>Detail produktu</h2>
+            <ul>
+                <li><p>Znacka:{{produkt.znacka.nazev}}</p></li>
+                <li><p>Mnozstvi:{{produkt.mnozstvi}}</p></li>
+                <li><p>Kategorie:{{produkt.kategorie}}</p></li>
+            </ul>
+            <hr>
+
+            <button>Pridat do kosiku</button>
+        </div>
+        <div class="product-image">
+            <img src="https://picsum.photos/400/500" alt="Product img">
+        </div>
+
+
+    </main>
+
+    <footer>
+        <p> 2023 Eshop</p>
+    </footer>
+</body>
+
+{%endblock%}
