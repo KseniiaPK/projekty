@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movies by Country - {{ country_name }}</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            overflow: hidden;
+        }
+
+        header, nav, main, footer {
+            background-color: black;
+            color: white;
+            text-align: center;
+        }
+
+        nav {
+            display: flex;
+            justify-content: center;
+            padding: 1em 0;
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+        }
+
+        main {
+            padding: 0.1em;
+            text-align: center;
+        }
+
+        main a {
+            color: white;
+            text-decoration: none;
+        }
+
+        ul {
+            list-style: none;
+            padding: 0;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            justify-content: center;
+        }
+
+        li {
+            text-align: center;
+        }
+
+        img {
+            width: 100%;
+            height: auto;
+            max-width: 200px;
+            display: block;
+            margin: 0 auto;
+        }
+
+        footer {
+            padding: 1em 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>MovieHR</h1>
+    </header>
+
+    <nav>
+        <a href="{% url 'homepage' %}">Home</a>
+        <a href="{% url 'allmovies' %}">All Movies</a>
+        <a href="{% url 'films' %}">Films</a>
+        <a href="{% url 'series' %}">Series</a>
+        <a href="{% url 'cartoons' %}">Cartoons</a>
+        <a href="{% url 'types' %}">Types</a>
+        <a href="{% url 'genres' %}">Genres</a>
+        <a href="{% url 'countries' %}">Countries</a>
+    </nav>
+
+    <main>
+        <h3>Movies by Country - {{ country_name }}</h3>
+        <ul>
+            {% for movie in movies_country %}
+                <li>
+                    <a href="{% url 'movie_detail' name=movie.name %}">
+                        <img src="{{ movie.photo.url }}" alt="{{ movie.name }}"/>
+                    </a>
+                    <br>
+                    <a href="{% url 'movie_detail' name=movie.name %}">{{ movie.name }}</a>
+                    <h6>{{ movie.year }}, {{ movie.country.name_country }}</h6>
+                    <h6>{{ movie.old }}</h6>
+                </li>
+            {% endfor %}
+        </ul>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 MovieHR. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>

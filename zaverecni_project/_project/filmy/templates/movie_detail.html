@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ movie.name }} - Movie Detail</title>
+    <style>
+        /* Add your custom styles here */
+    </style>
+</head>
+<body>
+    <header>
+        <h1>{{ movie.name }}</h1>
+    </header>
+
+    <section>
+        <img src="{{ movie.photo.url }}"/>
+        <p><strong>Year:</strong> {{ movie.year }}</p>
+        <p><strong>Type:</strong> {{ movie.type.name_type }}</p>
+        <p><strong>Country:</strong> {{ movie.country.name_country}}</p>
+        <p><strong>Age Rating:</strong> {{ movie.old }}</p>
+        <p><strong>Genre:</strong> {{ movie.genre.name_genre}}</p>
+        <p><strong>Info:</strong> {{ movie.info }}</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 MovieHR. All rights reserved.</p>
+    </footer>
+</body>
+</html>

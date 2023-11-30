@@ -1,0 +1,1093 @@
+[
+  {
+    "name": "Avatar",
+    "year": "2009",
+    "country": "USA",
+    "genre": "action",
+    "type": "film",
+    "old": "12+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTYwOTEwNjAzMl5BMl5BanBnXkFtZTcwODc5MTUwMw@@._V1_SX300.jpg",
+    "info": "Avatar, directed by James Cameron, is a 2009 action-adventure fantasy film. The story follows a paraplegic marine dispatched to the moon Pandora on a unique mission, torn between following orders and protecting the world he considers his home. The film received critical acclaim, winning three Oscars and garnering 80 additional wins along with 121 nominations."
+  },
+  {
+    "name": "I Am Legend",
+    "year": "2007",
+    "country": "USA",
+    "genre": "drama",
+    "type": "film",
+    "old": "18+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTU4NzMyNDk1OV5BMl5BanBnXkFtZTcwOTEwMzU1MQ@@._V1_SX300.jpg",
+    "info": "I Am Legend, released in 2007, is a drama-horror sci-fi film directed by Francis Lawrence. The story is set in a post-apocalyptic world, where the sole survivor in New York City, played by Will Smith, struggles to find a cure for a plague that has transformed humanity. The film received 9 wins and 21 nominations."
+  },
+  {
+    "name": "300",
+    "year": "2006",
+    "country": "USA",
+    "genre": "action",
+    "type": "film",
+    "old": "16+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMjAzNTkzNjcxNl5BMl5BanBnXkFtZTYwNDA4NjE3._V1_SX300.jpg",
+    "info": "300, directed by Zack Snyder, is a 2006 action drama fantasy film. The plot revolves around King Leonidas of Sparta and 300 men fighting the Persians at Thermopylae in 480 B.C. The film received 16 wins and 42 nominations."
+  },
+  {
+    "name": "The Avengers",
+    "year": "2012",
+    "country": "USA",
+    "genre": "action",
+    "type": "film",
+    "old": "12+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTk2NTI1MTU4N15BMl5BanBnXkFtZTcwODg0OTY0Nw@@._V1_SX300.jpg",
+    "info": "The Avengers, released in 2012 and directed by Joss Whedon, is an action sci-fi thriller. Earth's mightiest heroes must come together to stop the mischievous Loki and his alien army from enslaving humanity. The film was nominated for 1 Oscar, with 34 wins and 75 nominations."
+  },
+  {
+    "name": "The Wolf of Wall Street",
+    "year": "2013",
+    "country": "USA",
+    "genre": "biography",
+    "type": "film",
+    "old": "18+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_SX300.jpg",
+    "info": "The Wolf of Wall Street, directed by Martin Scorsese, is a 2013 biographical crime comedy. Based on the true story of Jordan Belfort, the film depicts his rise as a wealthy stockbroker and his fall involving crime, corruption, and the federal government. The film was nominated for 5 Oscars and received 35 wins and 154 nominations."
+  },
+  {
+    "name": "Interstellar",
+    "year": "2014",
+    "country": "USA",
+    "genre": "adventure",
+    "type": "film",
+    "old": "16+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMjIxNTU4MzY4MF5BMl5BanBnXkFtZTgwMzM4ODI3MjE@._V1_SX300.jpg",
+    "info": "Interstellar, directed by Christopher Nolan and released in 2014, is an adventure drama sci-fi film. A team of explorers travels through a wormhole in space to ensure humanity's survival. The film received 44 wins and 148 nominations, including an Oscar win."
+  },
+  {
+    "name": "Dangal",
+    "year": "2016",
+    "country": "India",
+    "genre": "biography",
+    "type": "film",
+    "old": "12+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTQ4MjQzNDYzMF5BMl5BanBnXkFtZTgwMzY2NTQ5MDE@._V1_SX300.jpg",
+    "info": "Dangal, directed by Nitesh Tiwari, is a 2016 biographical sports drama. The film follows the true story of Mahavir Singh Phogat, an amateur wrestler, who trains his daughters Geeta and Babita to become India's first world-class female wrestlers. Dangal received widespread acclaim and numerous awards."
+  },
+  {
+    "name": "3 Idiots",
+    "year": "2009",
+    "country": "India",
+    "genre": "comedy",
+    "type": "film",
+    "old": "6+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTk4ODk5MTMyNV5BMl5BanBnXkFtZTcwMDc3NDQ3Mg@@._V1_SX300.jpg",
+    "info": "3 Idiots, directed by Rajkumar Hirani, is a 2009 comedy-drama. The film follows the friendship of three students at an Indian engineering college and addresses the pressure and expectations of the education system. 3 Idiots became one of the highest-grossing Indian films and received critical acclaim."
+  },
+  {
+    "name": "PK",
+    "year": "2014",
+    "country": "India",
+    "genre": "comedy",
+    "type": "film",
+    "old": "12+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMjI0MDY2NzY2Nl5BMl5BanBnXkFtZTgwNTk5Njk1MjE@._V1_SX300.jpg",
+    "info": "PK, directed by Rajkumar Hirani and released in 2014, is a comedy-drama film that satirizes various societal issues. The story revolves around an alien named PK who questions religious dogmas and superstitions prevailing in Indian society. The film received positive reviews for its storytelling and performances."
+  },
+  {
+    "name": "Lagaan: Once Upon a Time in India",
+    "year": "2001",
+    "country": "India",
+    "genre": "adventure",
+    "type": "film",
+    "old": "12+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMjA1NzYwOTI2MV5BMl5BanBnXkFtZTcwMjIwMzUyMQ@@._V1_SX300.jpg",
+    "info": "Lagaan, directed by Ashutosh Gowariker, is a 2001 sports drama set during the British Raj. The film follows a group of villagers who accept a challenge to play a cricket match against the oppressive British rulers to avoid high taxes. Lagaan received critical acclaim and was nominated for the Academy Award for Best Foreign Language Film."
+  },
+  {
+    "name": "Baahubali: The Beginning",
+    "year": "2015",
+    "country": "India",
+    "genre": "action",
+    "type": "film",
+    "old": "16+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTM1NTMwNDQwMV5BMl5BanBnXkFtZTgwMDkwMTQzNDE@._V1_SX300.jpg",
+    "info": "Baahubali: The Beginning, directed by S.S. Rajamouli, is a 2015 epic action film. The story revolves around the conflict between two brothers for control of an ancient Indian kingdom. The film received praise for its visual effects, storytelling, and performances."
+  },
+  {
+    "name": "Dil Chahta Hai",
+    "year": "2001",
+    "country": "India",
+    "genre": "drama",
+    "type": "film",
+    "old": "12+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTc0ODQ2MTEwM15BMl5BanBnXkFtZTYwMDgzNjA5._V1_SX300.jpg",
+    "info": "Dil Chahta Hai, directed by Farhan Akhtar, is a 2001 coming-of-age drama. The film follows three inseparable childhood friends as they navigate the ups and downs of life, love, and friendship. Dil Chahta Hai is considered a cult classic and received acclaim for its realistic portrayal of relationships."
+  },
+  {
+    "name": "Dangal",
+    "year": "2016",
+    "country": "India",
+    "genre": "biography",
+    "type": "film",
+    "old": "12+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTQ4MjQzNDYzMF5BMl5BanBnXkFtZTgwMzY2NTQ5MDE@._V1_SX300.jpg",
+    "info": "Dangal, directed by Nitesh Tiwari, is a 2016 biographical sports drama. The film follows the true story of Mahavir Singh Phogat, an amateur wrestler, who trains his daughters Geeta and Babita to become India's first world-class female wrestlers. Dangal received widespread acclaim and numerous awards."
+  },
+  {
+    "name": "3 Idiots",
+    "year": "2009",
+    "country": "India",
+    "genre": "comedy",
+    "type": "film",
+    "old": "6+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTk4ODk5MTMyNV5BMl5BanBnXkFtZTcwMDc3NDQ3Mg@@._V1_SX300.jpg",
+    "info": "3 Idiots, directed by Rajkumar Hirani, is a 2009 comedy-drama. The film follows the friendship of three students at an Indian engineering college and addresses the pressure and expectations of the education system. 3 Idiots became one of the highest-grossing Indian films and received critical acclaim."
+  },
+  {
+    "name": "PK",
+    "year": "2014",
+    "country": "India",
+    "genre": "comedy",
+    "type": "film",
+    "old": "12+",
+    "photo": "httpia.media-imdb.com/images/M/MV5BMjI0MDY2NzY2Nl5BMl5BanBnXkFtZTgwNTk5Njk1MjE@._V1_SX300.jpg",
+    "info": "PK, directed by Rajkumar Hirani and released in 2014, is a comedy-drama film that satirizes various societal issues. The story revolves around an alien named PK who questions religious dogmas and superstitions prevailing in Indian society. The film received positive reviews for its storytelling and performances."
+  },
+  {
+    "name": "Lagaan: Once Upon a Time in India",
+    "year": "2001",
+    "country": "India",
+    "genre": "science fiction",
+    "type": "film",
+    "old": "12+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMjA1NzYwOTI2MV5BMl5BanBnXkFtZTcwMjIwMzUyMQ@@._V1_SX300.jpg",
+    "info": "Lagaan, directed by Ashutosh Gowariker, is a 2001 sports drama set during the British Raj. The film follows a group of villagers who accept a challenge to play a cricket match against the oppressive British rulers to avoid high taxes. Lagaan received critical acclaim and was nominated for the Academy Award for Best Foreign Language Film."
+  },
+  {
+    "name": "Baahubali: The Beginning",
+    "year": "2015",
+    "country": "India",
+    "genre": "action",
+    "type": "film",
+    "old": "16+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTM1NTMwNDQwMV5BMl5BanBnXkFtZTgwMDkwMTQzNDE@._V1_SX300.jpg",
+    "info": "Baahubali: The Beginning, directed by S.S. Rajamouli, is a 2015 epic action film. The story revolves around the conflict between two brothers for control of an ancient Indian kingdom. The film received praise for its visual effects, storytelling, and performances."
+  },
+  {
+    "name": "Dil Chahta Hai",
+    "year": "2001",
+    "country": "India",
+    "genre": "drama",
+    "type": "film",
+    "old": "12+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTc0ODQ2MTEwM15BMl5BanBnXkFtZTYwMDgzNjA5._V1_SX300.jpg",
+    "info": "Dil Chahta Hai, directed by Farhan Akhtar, is a 2001 coming-of-age drama. The film follows three inseparable childhood friends as they navigate the ups and downs of life, love, and friendship. Dil Chahta Hai is considered a cult classic and received acclaim for its realistic portrayal of relationships."
+  },
+  {
+    "name": "Crouching Tiger, Hidden Dragon",
+    "year": "2000",
+    "country": "China",
+    "genre": "action",
+    "type": "film",
+    "old": "12+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTQ1MTY2OTg2Ml5BMl5BanBnXkFtZTYwMzY1OTQ2._V1_SX300.jpg",
+    "info": "Crouching Tiger, Hidden Dragon, directed by Ang Lee, is a 2000 wuxia film. The story revolves around two warriors in pursuit of a stolen sword and a notorious fugitive. The film combines martial arts with a moving love story and received widespread acclaim, winning four Academy Awards."
+  },
+  {
+    "name": "Hero",
+    "year": "2002",
+    "country": "China",
+    "genre": "drama",
+    "type": "film",
+    "old": "12+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTQxOTYxMjAzN15BMl5BanBnXkFtZTYwMTgyMTY2._V1_SX300.jpg",
+    "info": "Hero, directed by Zhang Yimou and released in 2002, is a martial arts epic set in ancient China. The film tells the story of a nameless warrior who recounts his battles against three assassins to the King of Qin. Hero is known for its stunning cinematography and choreography."
+  },
+  {
+    "name": "Raise the Red Lantern",
+    "year": "1991",
+    "country": "China",
+    "genre": "drama",
+    "type": "film",
+    "old": "18+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTUzNjE2OTQwM15BMl5BanBnXkFtZTYwNzI0MzY2._V1_SX300.jpg",
+    "info": "Raise the Red Lantern, directed by Zhang Yimou, is a 1991 drama film. Set in the 1920s, it tells the story of a young woman who becomes one of the concubines for a wealthy man. The film explores themes of power, repression, and the roles of women in traditional Chinese society."
+  },
+  {
+    "name": "Farewell My Concubine",
+    "year": "1993",
+    "country": "China",
+    "genre": "romance",
+    "type": "film",
+    "old": "18+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTM1MTkyOTc4Nl5BMl5BanBnXkFtZTYwNDQ4Mjk2._V1_SX300.jpg",
+    "info": "Farewell My Concubine, directed by Chen Kaige, is a 1993 drama film. The story spans over 50 years and revolves around two men who become Peking opera stars. The film explores the complexities of their relationships against the backdrop of China's political upheavals."
+  },
+  {
+    "name": "House of Flying Daggers",
+    "year": "2004",
+    "country": "China",
+    "genre": "mystery",
+    "type": "film",
+    "old": "16+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTQ2MTY5NzI5Ml5BMl5BanBnXkFtZTYwODczNzM2._V1_SX300.jpg",
+    "info": "House of Flying Daggers, directed by Zhang Yimou, is a 2004 wuxia romance. The film follows a romantic triangle involving a police officer, a dancer, and the leader of a revolutionary army. Known for its visually stunning sequences, the film received critical acclaim."
+  },
+  {
+    "name": "To Live",
+    "year": "1994",
+    "country": "China",
+    "genre": "documentary",
+    "type": "film",
+    "old": "18+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTUzNDEwODI3Ml5BMl5BanBnXkFtZTYwMTUzODU2._V1_SX300.jpg",
+    "info": "To Live, directed by Zhang Yimou, is a 1994 drama film based on the novel by Yu Hua. The movie follows a Chinese family through decades of social and political change. It provides a poignant portrayal of how historical events impact individual lives."
+  },
+  {
+    "name": "Amélie",
+    "year": "2001",
+    "country": "France",
+    "genre": "comedy",
+    "type": "film",
+    "old": "12+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMjA0ODEzMTc1NF5BMl5BanBnXkFtZTYwNTE5Nzc5._V1_SX300.jpg",
+    "info": "Amélie, directed by Jean-Pierre Jeunet, is a 2001 romantic comedy. The film follows the whimsical journey of Amélie Poulain, a shy waitress who decides to bring joy to the lives of those around her. Known for its charming storytelling and visual style, Amélie became an international success."
+  },
+  {
+    "name": "La La Land",
+    "year": "2016",
+    "country": "France",
+    "genre": "drama",
+    "type": "film",
+    "old": "12+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMjQ1MTQ0MTI5N15BMl5BanBnXkFtZTgwNzYyMjIwMDI@._V1_SX300.jpg",
+    "info": "La La Land, directed by Damien Chazelle, is a 2016 musical drama. The film explores the romantic relationship between a jazz musician and an aspiring actress in Los Angeles. La La Land received critical acclaim for its performances, music, and visual style, winning six Academy Awards."
+  },
+  {
+    "name": "Blue Is the Warmest Color",
+    "year": "2013",
+    "country": "France",
+    "genre": "romance",
+    "type": "film",
+    "old": "18+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BNjE0NTYyNjAxNF5BMl5BanBnXkFtZTcwMzk2MjM1Nw@@._V1_SX300.jpg",
+    "info": "Blue Is the Warmest Color, directed by Abdellatif Kechiche, is a 2013 romantic drama. The film follows the passionate relationship between two young women and received widespread acclaim for its performances and emotional depth, winning the Palme d'Or at the Cannes Film Festival."
+  },
+  {
+    "name": "The Intouchables",
+    "year": "2011",
+    "country": "France",
+    "genre": "comedy",
+    "type": "film",
+    "old": "12+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTQ1NTI0MDAzOV5BMl5BanBnXkFtZTcwMTUxMzc1Nw@@._V1_SX300.jpg",
+    "info": "The Intouchables, directed by Olivier Nakache and Éric Toledano, is a 2011 comedy-drama. Based on a true story, the film depicts the friendship between a quadriplegic aristocrat and his caregiver. The Intouchables became one of the highest-grossing non-English language films."
+  },
+  {
+    "name": "Amour",
+    "year": "2012",
+    "country": "France",
+    "genre": "drama",
+    "type": "film",
+    "old": "18+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTg2NjEyNTg5M15BMl5BanBnXkFtZTcwMTMxMjA1OA@@._V1_SX300.jpg",
+    "info": "Amour, directed by Michael Haneke, is a 2012 romantic drama. The film portrays the challenges faced by an elderly couple when the wife's health deteriorates. Amour received critical acclaim for its performances and won the Palme d'Or at the Cannes Film Festival."
+  },
+  {
+    "name": "La Haine",
+    "year": "1995",
+    "country": "France",
+    "genre": "crime",
+    "type": "film",
+    "old": "18+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMjQxMTE3NjEwMl5BMl5BanBnXkFtZTYwMjM5Mjc2._V1_SX300.jpg",
+    "info": "La Haine, directed by Mathieu Kassovitz, is a 1995 crime drama. The film follows three friends over 19 hours in the suburbs of Paris and addresses themes of social inequality and discrimination. La Haine is praised for its raw portrayal of urban life and received the Best Director award at Cannes."
+  },
+  {
+    "name": "The Grand Budapest Hotel",
+    "year": "2014",
+    "country": "United Kingdom",
+    "genre": "comedy",
+    "type": "film",
+    "old": "12+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMzM5NjUxOTEyNl5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_SX300.jpg",
+    "info": "The Grand Budapest Hotel, directed by Wes Anderson, is a 2014 comedy film. The story revolves around the misadventures of a hotel concierge and his protégé. Known for its distinctive visual style, the film received critical acclaim and won several awards."
+  },
+  {
+    "name": "Dunkirk",
+    "year": "2017",
+    "country": "United Kingdom",
+    "genre": "action",
+    "type": "film",
+    "old": "12+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BNjUzNjcwNzg2N15BMl5BanBnXkFtZTgwNzU1Mzc0MTI@._V1_SX300.jpg",
+    "info": "Dunkirk, directed by Christopher Nolan, is a 2017 war film. The movie portrays the evacuation of Allied soldiers during World War II. Dunkirk received widespread praise for its cinematography, direction, and musical score."
+  },
+  {
+    "name": "The Imitation Game",
+    "year": "2014",
+    "country": "United Kingdom",
+    "genre": "biography",
+    "type": "film",
+    "old": "12+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMjEzOTM4MzE2OF5BMl5BanBnXkFtZTgwNDk3Mjg4MzE@._V1_SX300.jpg",
+    "info": "The Imitation Game, directed by Morten Tyldum, is a 2014 biographical drama. The film portrays the life of Alan Turing, a key figure in the British code-breaking effort during World War II. Benedict Cumberbatch received acclaim for his performance as Turing."
+  },
+  {
+    "name": "Trainspotting",
+    "year": "1996",
+    "country": "United Kingdom",
+    "genre": "drama",
+    "type": "film",
+    "old": "18+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTcyNzkwMzk3Nl5BMl5BanBnXkFtZTcwMzU1NjEzMQ@@._V1_SX300.jpg",
+    "info": "Trainspotting, directed by Danny Boyle, is a 1996 drama film. The story follows a group of heroin addicts in Edinburgh and explores themes of addiction and friendship. Trainspotting gained cultural significance and has a strong fan following."
+  },
+  {
+    "name": "Atonement",
+    "year": "2007",
+    "country": "United Kingdom",
+    "genre": "romance",
+    "type": "film",
+    "old": "16+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMjA0NTczMTg4Nl5BMl5BanBnXkFtZTcwNzIzNTMwNA@@._V1_SX300.jpg",
+    "info": "Atonement, directed by Joe Wright, is a 2007 romantic drama. The film, based on Ian McEwan's novel, explores the consequences of a young girl's false accusations and the impact on two lovers. Atonement received critical acclaim and several award nominations."
+  },
+  {
+    "name": "The King's Speech",
+    "year": "2010",
+    "country": "United Kingdom",
+    "genre": "biography",
+    "type": "film",
+    "old": "12+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTU0MDQ3MTk2OV5BMl5BanBnXkFtZTcwNjg5MjU0MQ@@._V1_SX300.jpg",
+    "info": "The King's Speech, directed by Tom Hooper, is a 2010 biographical drama. The film tells the story of King George VI and his speech therapist. The King's Speech received critical acclaim, winning several awards, including the Academy Award for Best Picture."
+  },
+  {
+    "name": "Spirited Away",
+    "year": "2001",
+    "country": "Japan",
+    "genre": "animation",
+    "type": "film",
+    "old": "6+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMjIzMjgwNDIzOV5BMl5BanBnXkFtZTcwNzQyOTk4Nw@@._V1_SX300.jpg",
+    "info": "Spirited Away, directed by Hayao Miyazaki, is a 2001 animated fantasy film. The story follows a young girl, Chihiro, who becomes trapped in a mysterious and magical world. Spirited Away received widespread acclaim for its animation and storytelling and won the Academy Award for Best Animated Feature."
+  },
+  {
+    "name": "Your Name",
+    "year": "2016",
+    "country": "Japan",
+    "genre": "drama",
+    "type": "film",
+    "old": "12+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMjExNTUzODcxNF5BMl5BanBnXkFtZTgwNzU1Mzc0MTI@._V1_SX300.jpg",
+    "info": "Your Name, directed by Makoto Shinkai, is a 2016 animated drama. The film revolves around two high school students who mysteriously swap bodies. Your Name became a massive success, becoming one of the highest-grossing anime films of all time."
+  },
+  {
+    "name": "Akira",
+    "year": "1988",
+    "country": "Japan",
+    "genre": "science fiction",
+    "type": "film",
+    "old": "16+",
+    "photo": "http.//ia.media-imdb.com/images/M/MV5BNzE2ODQ1MTctZDcxMC00NjAwLWEwZWItYTA2N2JmM2MxNTIyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "info": "Akira, directed by Katsuhiro Otomo, is a 1988 animated science fiction film. Set in a dystopian Tokyo, the movie follows Kaneda, a bike gang member, as he tries to save his friend Tetsuo from government experiments. Akira is considered a landmark in Japanese animation and cyberpunk genres."
+  },
+  {
+    "name": "Grave of the Fireflies",
+    "year": "1988",
+    "country": "Japan",
+    "genre": "war",
+    "type": "film",
+    "old": "12+",
+    "photo": "http.//ia.media-imdb.com/images/M/MV5BMTcwOTkwODUzOV5BMl5BanBnXkFtZTgwMTYyMDk5MDE@._V1_SX300.jpg",
+    "info": "Grave of the Fireflies, directed by Isao Takahata, is a 1988 war drama. The film tells the heartbreaking story of two siblings trying to survive in Japan during World War II. Grave of the Fireflies is praised for its emotional impact and is considered one of the greatest animated films ever made."
+  },
+  {
+    "name": "Rashomon",
+    "year": "1950",
+    "country": "Japan",
+    "genre": "crime",
+    "type": "film",
+    "old": "16+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTY2MjA4NTIwMV5BMl5BanBnXkFtZTgwNzkzMjQ3MjI@._V1_SX300.jpg",
+    "info": "Rashomon, directed by Akira Kurosawa, is a 1950 crime film. The movie presents multiple perspectives on the rape of a bride and the murder of her samurai husband. Rashomon is celebrated for its innovative narrative structure and is considered a classic in world cinema."
+  },
+  {
+    "name": "Tokyo Story",
+    "year": "1953",
+    "country": "Japan",
+    "genre": "drama",
+    "type": "film",
+    "old": "12+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTU0OTM5MTYzOV5BMl5BanBnXkFtZTcwNDQ1MzQyNw@@._V1_SX300.jpg",
+    "info": "Tokyo Story, directed by Yasujirō Ozu, is a 1953 drama film. The story follows an elderly couple visiting their grown children in Tokyo. Tokyo Story is praised for its simplicity and emotional depth, becoming a landmark in Japanese cinema."
+  },
+  {
+    "name": "Oldboy",
+    "year": "2003",
+    "country": "South Korea",
+    "genre": "thriller",
+    "type": "film",
+    "old": "18+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTY5MjU5MjA2Nl5BMl5BanBnXkFtZTgwNzE1OTg0MDE@._V1_SX300.jpg",
+    "info": "Oldboy, directed by Park Chan-wook, is a 2003 thriller film. The story follows a man who is inexplicably imprisoned for 15 years and then released, seeking revenge against those who imprisoned him. Oldboy is known for its intense storytelling and has gained a cult following."
+  },
+  {
+    "name": "Parasite",
+    "year": "2019",
+    "country": "South Korea",
+    "genre": "comedy",
+    "type": "film",
+    "old": "16+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMjMwNjIyNjA2Nl5BMl5BanBnXkFtZTgwNTA3OTQ2NTE@._V1_SX300.jpg",
+    "info": "Parasite, directed by Bong Joon-ho, is a 2019 comedy-drama. The film explores the class divide between a poor family and a rich family, leading to unexpected and darkly comedic events. Parasite won the Palme d'Or at the 2019 Cannes Film Festival and the Academy Award for Best Picture."
+  },
+  {
+    "name": "The Man from Nowhere",
+    "year": "2010",
+    "country": "South Korea",
+    "genre": "action",
+    "type": "film",
+    "old": "18+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTk5MDUyNzA5OV5BMl5BanBnXkFtZTcwNjA2MjIwNQ@@._V1_SX300.jpg",
+    "info": "The Man from Nowhere, directed by Lee Jeong-beom, is a 2010 action thriller. The film follows a quiet man with a mysterious past who embarks on a violent mission to save a kidnapped girl. The Man from Nowhere received praise for its action sequences and emotional depth."
+  },
+  {
+    "name": "I Saw the Devil",
+    "year": "2010",
+    "country": "South Korea",
+    "genre": "horror",
+    "type": "film",
+    "old": "18+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTY4MDQyNzM5Nl5BMl5BanBnXkFtZTcwMDA3MzE0Nw@@._V1_SX300.jpg",
+    "info": "I Saw the Devil, directed by Kim Jee-woon, is a 2010 horror thriller. The film follows a secret agent seeking revenge on a serial killer who murdered his fiancée. I Saw the Devil is praised for its intense and brutal storytelling."
+  },
+  {
+    "name": "Train to Busan",
+    "year": "2016",
+    "country": "South Korea",
+    "genre": "action",
+    "type": "film",
+    "old": "16+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTExMTIyOTg1NDNeQTJeQWpwZ15BbWU4MDEyNjcxMjQz._V1_SX300.jpg",
+    "info": "Train to Busan, directed by Yeon Sang-ho, is a 2016 action horror film. The story revolves around a zombie outbreak on a high-speed train from Seoul to Busan. Train to Busan received critical acclaim for its suspenseful plot and emotional impact."
+  },
+  {
+    "name": "Memories of Murder",
+    "year": "2003",
+    "country": "South Korea",
+    "genre": "crime",
+    "type": "film",
+    "old": "18+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTM3ODc4NzUyOF5BMl5BanBnXkFtZTYwNTQxMTU5._V1_SX300.jpg",
+    "info": "Memories of Murder, directed by Bong Joon-ho, is a 2003 crime drama. The film is based on the real-life Hwaseong serial murders and follows detectives as they try to solve the case. Memories of Murder is acclaimed for its storytelling and social commentary."
+  },
+  {
+    "name": "Run Lola Run",
+    "year": "1998",
+    "country": "Germany",
+    "genre": "thriller",
+    "type": "film",
+    "old": "16+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTc0MDQ1MDEwMl5BMl5BanBnXkFtZTYwMzg2MjQ2._V1_SX300.jpg",
+    "info": "Run Lola Run, directed by Tom Tykwer, is a 1998 thriller. The film explores the concept of fate and the impact of small events on people's lives. Run Lola Run is known for its innovative narrative and visual style."
+  },
+  {
+    "name": "Good Bye Lenin!",
+    "year": "2003",
+    "country": "Germany",
+    "genre": "comedy",
+    "type": "film",
+    "old": "12+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMzE2ODUwMDMzOF5BMl5BanBnXkFtZTcwNDAyMzA1Mg@@._V1_SX300.jpg",
+    "info": "Good Bye Lenin!, directed by Wolfgang Becker, is a 2003 tragicomedy. The film follows a young man who goes to great lengths to protect his mother from the shock of learning that East Germany as she knew it has disappeared. Good Bye Lenin! received critical acclaim for its blend of humor and drama."
+  },
+  {
+    "name": "The Lives of Others",
+    "year": "2006",
+    "country": "Germany",
+    "genre": "drama",
+    "type": "film",
+    "old": "16+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTIzNzc0MTU1M15BMl5BanBnXkFtZTYwNjA0NzY2._V1_SX300.jpg",
+    "info": "The Lives of Others, directed by Florian Henckel von Donnersmarck, is a 2006 drama. Set in East Berlin in 1984, the film explores the monitoring of East Berlin by agents of the Stasi, the GDR's secret police. The Lives of Others won the Academy Award for Best Foreign Language Film."
+  },
+  {
+    "name": "Gegen die Wand (Head-On)",
+    "year": "2004",
+    "country": "Germany",
+    "genre": "romance",
+    "type": "film",
+    "old": "18+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTYzNjMwNzU5NV5BMl5BanBnXkFtZTcwODcyNTIzMg@@._V1_SX300.jpg",
+    "info": "Gegen die Wand (Head-On), directed by Fatih Akin, is a 2004 romantic drama. The film follows the story of two Turks in Germany who form a pact to escape their situations but find themselves increasingly drawn to each other. Head-On won the Golden Bear at the Berlin Film Festival."
+  },
+  {
+    "name": "Run Lola Run",
+    "year": "1998",
+    "country": "Germany",
+    "genre": "action",
+    "type": "film",
+    "old": "18+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTc0MDQ1MDEwMl5BMl5BanBnXkFtZTYwMzg2MjQ2._V1_SX300.jpg",
+    "info": "Run Lola Run, directed by Tom Tykwer, is a 1998 action thriller. The film explores the concept of fate and the impact of small events on people's lives. Run Lola Run is known for its innovative narrative and visual style."
+  },
+  {
+    "name": "Grave of the Fireflies",
+    "year": "1988",
+    "country": "Germany",
+    "genre": "animation",
+    "type": "cartoon",
+    "old": "12+",
+    "photo": "http,//ia.media-imdb.com/images/M/MV5BMTkxNDYxOTMyMV5BMl5BanBnXkFtZTYwNDU2MzY2._V1_SX300.jpg",
+    "info": "Grave of the Fireflies, directed by Isao Takahata, is a 1988 animated war film. The story follows a brother and sister trying to survive in Japan during the final months of World War II. Grave of the Fireflies is acclaimed for its emotional impact and portrayal of the human cost of war."
+  },
+  {
+    "name": "City of God",
+    "year": "2002",
+    "country": "Brazil",
+    "genre": "drama",
+    "type": "film",
+    "old": "18+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTYwNDU2MzY2._V1_SX300.jpg",
+    "info": "City of God, directed by Fernando Meirelles, is a 2002 crime drama. The film depicts the growth of organized crime in the Cidade de Deus suburb of Rio de Janeiro between the end of the '60s and the beginning of the '80s."
+  },
+  {
+    "name": "Central Station",
+    "year": "1998",
+    "country": "Brazil",
+    "genre": "drama",
+    "type": "film",
+    "old": "16+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTYwNDU2MzY2._V1_SX300.jpg",
+    "info": "Central Station, directed by Walter Salles, is a 1998 drama. The film follows a former school teacher who writes letters for illiterate people, and her connection with a young boy."
+  },
+  {
+    "name": "Elite Squad",
+    "year": "2007",
+    "country": "Brazil",
+    "genre": "action",
+    "type": "film",
+    "old": "18+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTI4MTY2NTY4MF5BMl5BanBnXkFtZTYwNDU2MzY2._V1_SX300.jpg",
+    "info": "Elite Squad, directed by José Padilha, is a 2007 action crime film. The movie explores the violent and dangerous work of a division of the Rio de Janeiro Police."
+  },
+  {
+    "name": "The Constant Gardener",
+    "year": "2005",
+    "country": "Brazil",
+    "genre": "mystery",
+    "type": "film",
+    "old": "16+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTI4MTY2NTY4MF5BMl5BanBnXkFtZTYwNDU2MzY2._V1_SX300.jpg",
+    "info": "The Constant Gardener, directed by Fernando Meirelles, is a 2005 mystery thriller. The film follows a British diplomat as he investigates the death of his wife in Kenya."
+  },
+  {
+    "name": "City of God",
+    "year": "2002",
+    "country": "Brazil",
+    "genre": "thriller",
+    "type": "film",
+    "old": "18+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTYwNDU2MzY2._V1_SX300.jpg",
+    "info": "City of God, directed by Fernando Meirelles, is a 2002 thriller. The film depicts the growth of organized crime in the Cidade de Deus suburb of Rio de Janeiro between the end of the '60s and the beginning of the '80s."
+  },
+  {
+    "name": "Rio",
+    "year": "2011",
+    "country": "Brazil",
+    "genre": "animation",
+    "type": "cartoon",
+    "old": "0+",
+    "photo": "http,//ia.media-imdb.com/images/M/MV5BMTkxNDYxOTMyMV5BMl5BanBnXkFtZTYwNDU2MzY2._V1_SX300.jpg",
+    "info": "Rio, directed by Carlos Saldanha, is a 2011 animated adventure. The film follows a domesticated macaw who learns to live in the wild. Rio received positive reviews for its animation and musical score."
+  },
+  {
+    "name": "Cinema Paradiso",
+    "year": "1988",
+    "country": "Italy",
+    "genre": "drama",
+    "type": "film",
+    "old": "12+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTQzMzEzMjE4OF5BMl5BanBnXkFtZTYwOTU2NTY2._V1_SX300.jpg",
+    "info": "Cinema Paradiso, directed by Giuseppe Tornatore, is a 1988 drama. The film follows a filmmaker recalling his childhood and the impact of the local cinema in his life. Cinema Paradiso won the Academy Award for Best Foreign Language Film."
+  },
+  {
+    "name": "Life Is Beautiful",
+    "year": "1997",
+    "country": "Italy",
+    "genre": "comedy",
+    "type": "film",
+    "old": "12+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTQxNTkxNDI4OF5BMl5BanBnXkFtZTYwNzU2NTY2._V1_SX300.jpg",
+    "info": "Life Is Beautiful, directed by Roberto Benigni, is a 1997 tragicomedy. The film tells the story of a Jewish father who uses humor to protect his son in a concentration camp. Life Is Beautiful received critical acclaim and won three Academy Awards, including Best Actor for Roberto Benigni."
+  },
+  {
+    "name": "The Great Beauty",
+    "year": "2013",
+    "country": "Italy",
+    "genre": "drama",
+    "type": "film",
+    "old": "18+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMjEwNzk1OTQ5Nl5BMl5BanBnXkFtZTgwNzE1MTEyMjE@._V1_SX300.jpg",
+    "info": "The Great Beauty, directed by Paolo Sorrentino, is a 2013 drama. The film follows a journalist reflecting on his life and the decadence of modern Rome. The Great Beauty won the Academy Award for Best Foreign Language Film."
+  },
+  {
+    "name": "La La Land",
+    "year": "2016",
+    "country": "Italy",
+    "genre": "romance",
+    "type": "film",
+    "old": "16+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMjMwNTkxNDQ1MV5BMl5BanBnXkFtZTgwMTk4MTY4OTE@._V1_SX300.jpg",
+    "info": "La La Land, directed by Damien Chazelle, is a 2016 romantic musical. While not an Italian film, it gained popularity in Italy and won several awards. The film follows the love story between a jazz musician and an aspiring actress in Los Angeles."
+  },
+  {
+    "name": "Cinema Paradiso",
+    "year": "1988",
+    "country": "Italy",
+    "genre": "mystery",
+    "type": "film",
+    "old": "16+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTQzMzEzMjE4OF5BMl5BanBnXkFtZTYwOTU2NTY2._V1_SX300.jpg",
+    "info": "Cinema Paradiso, directed by Giuseppe Tornatore, is a 1988 mystery drama. The film follows a filmmaker recalling his childhood and the impact of the local cinema in his life. Cinema Paradiso won the Academy Award for Best Foreign Language Film."
+  },
+  {
+    "name": "Spirited Away",
+    "year": "2001",
+    "country": "Italy",
+    "genre": "animation",
+    "type": "cartoon",
+    "old": "12+",
+    "photo": "http,//ia.media-imdb.com/images/M/MV5BMTkxNDYxOTMyMV5BMl5BanBnXkFtZTYwNDU2MzY2._V1_SX300.jpg",
+    "info": "Spirited Away, directed by Hayao Miyazaki, is a 2001 animated fantasy film. While not an Italian film, it gained popularity in Italy and won the Academy Award for Best Animated Feature. The story follows a young girl navigating a mysterious and magical world."
+  },
+   {
+    "name": "Stranger Things",
+    "year": "2016",
+    "country": "USA",
+    "genre": "science fiction",
+    "type": "serie",
+    "old": "16+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTYwNDU2MzY2._V1_SX300.jpg",
+    "info": "Stranger Things, created by the Duffer Brothers, is an American science fiction horror drama series that premiered in 2016. The show is set in the 1980s and combines supernatural elements with government conspiracy theories."
+  },
+  {
+    "name": "Breaking Bad",
+    "year": "2008",
+    "country": "USA",
+    "genre": "thriller",
+    "type": "serie",
+    "old": "18+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTYwNDU2MzY2._V1_SX300.jpg",
+    "info": "Breaking Bad, created by Vince Gilligan, is an American thriller drama series that premiered in 2008. The show follows a high school chemistry teacher turned methamphetamine manufacturer and explores the consequences of his actions."
+  },
+  {
+    "name": "Friends",
+    "year": "1994",
+    "country": "USA",
+    "genre": "comedy",
+    "type": "serie",
+    "old": "12+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTYwNDU2MzY2._V1_SX300.jpg",
+    "info": "Friends, created by David Crane and Marta Kauffman, is an American comedy series that premiered in 1994. The show revolves around a group of friends living in New York City and explores their personal and professional lives."
+  },
+  {
+    "name": "The Sopranos",
+    "year": "1999",
+    "country": "USA",
+    "genre": "drama",
+    "type": "serie",
+    "old": "18+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTYwNDU2MzY2._V1_SX300.jpg",
+    "info": "The Sopranos, created by David Chase, is an American drama series that premiered in 1999. The show follows mob boss Tony Soprano as he navigates the challenges of leading a criminal organization while dealing with personal and family issues."
+  },
+  {
+    "name": "Westworld",
+    "year": "2016",
+    "country": "USA",
+    "genre": "science fiction",
+    "type": "serie",
+    "old": "18+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTYwNDU2MzY2._V1_SX300.jpg",
+    "info": "Westworld, created by Jonathan Nolan and Lisa Joy, is an American science fiction western series that premiered in 2016. The show explores the emergence of artificial consciousness and the consequences of playing in a high-tech amusement park."
+  },
+  {
+    "name": "The Mandalorian",
+    "year": "2019",
+    "country": "USA",
+    "genre": "action",
+    "type": "serie",
+    "old": "12+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTYwNDU2MzY2._V1_SX300.jpg",
+    "info": "The Mandalorian, created by Jon Favreau, is an American action-adventure series that premiered in 2019. The show is set in the Star Wars universe and follows a lone bounty hunter in the outer reaches of the galaxy."
+  },
+   {
+    "name": "Dark",
+    "year": "2017",
+    "country": "Germany",
+    "genre": "science fiction",
+    "type": "serie",
+    "old": "16+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTYwNDU2MzY2._V1_SX300.jpg",
+    "info": "Dark, created by Baran bo Odar and Jantje Friese, is a German science fiction thriller series that premiered in 2017. The show involves time travel, mysterious disappearances, and interconnected families spanning several generations."
+  },
+  {
+    "name": "Babylon Berlin",
+    "year": "2017",
+    "country": "Germany",
+    "genre": "mystery",
+    "type": "serie",
+    "old": "16+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTYwNDU2MzY2._V1_SX300.jpg",
+    "info": "Babylon Berlin, created by Tom Tykwer, Achim von Borries, and Hendrik Handloegten, is a German mystery crime drama series that premiered in 2017. The show is set in Berlin during the Weimar Republic and follows a police inspector and a secretary entangled in a complex web of crime and politics."
+  },
+  {
+    "name": "How to Sell Drugs Online (Fast)",
+    "year": "2019",
+    "country": "Germany",
+    "genre": "comedy",
+    "type": "serie",
+    "old": "18+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTYwNDU2MzY2._V1_SX300.jpg",
+    "info": "How to Sell Drugs Online (Fast), created by Philipp Käßbohrer and Matthias Murmann, is a German comedy-drama series that premiered in 2019. The show follows a teenager who starts an online drug business to win back his ex-girlfriend."
+  },
+  {
+    "name": "Dark Desire",
+    "year": "2020",
+    "country": "Germany",
+    "genre": "thriller",
+    "type": "serie",
+    "old": "18+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTYwNDU2MzY2._V1_SX300.jpg",
+    "info": "Dark Desire, created by Leticia López Margalli, is a German thriller series that premiered in 2020. The show follows a married woman who gets involved in a passionate affair that leads to a series of mysterious events."
+  },
+  {
+    "name": "Tatort: Borowski",
+    "year": "2003",
+    "country": "Germany",
+    "genre": "crime",
+    "type": "serie",
+    "old": "16+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTYwNDU2MzY2._V1_SX300.jpg",
+    "info": "Tatort: Borowski is a German crime drama series that has been airing since 2003. The show is part of the larger Tatort franchise and follows the investigations of Detective Klaus Borowski in Kiel."
+  },
+  {
+    "name": "Biohackers",
+    "year": "2020",
+    "country": "Germany",
+    "genre": "science fiction",
+    "type": "serie",
+    "old": "16+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTYwNDU2MzY2._V1_SX300.jpg",
+    "info": "Biohackers, created by Christian Ditter, is a German science fiction thriller series that premiered in 2020. The show revolves around a medical student who uncovers dark secrets related to biohacking and genetic experimentation."
+  },
+  {
+    "name": "3%",
+    "year": "2016",
+    "country": "Brazil",
+    "genre": "thriller",
+    "type": "serie",
+    "old": "18+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTYwNDU2MzY2._V1_SX300.jpg",
+    "info": "3%, created by Pedro Aguilera, is a Brazilian thriller series that premiered in 2016. The show is set in a future where the population is divided between progress and devastation, and candidates must go through a series of tests to join the elite 3%."
+  },
+  {
+    "name": "Mandrake",
+    "year": "2005",
+    "country": "Brazil",
+    "genre": "drama",
+    "type": "serie",
+    "old": "18+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTYwNDU2MzY2._V1_SX300.jpg",
+    "info": "Mandrake, created by Rubem Fonseca, is a Brazilian drama series that premiered in 2005. The show follows the life of a Rio de Janeiro criminal lawyer who uses unorthodox methods to solve his cases."
+  },
+  {
+    "name": "The Mechanism",
+    "year": "2018",
+    "country": "Brazil",
+    "genre": "crime",
+    "type": "serie",
+    "old": "18+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTYwNDU2MzY2._V1_SX300.jpg",
+    "info": "The Mechanism, created by Elena Soarez and José Padilha, is a Brazilian crime drama series that premiered in 2018. The show is inspired by the real-world Lava Jato operation, a large corruption investigation in Brazil."
+  },
+  {
+    "name": "Good Morning, Verônica",
+    "year": "2020",
+    "country": "Brazil",
+    "genre": "crime",
+    "type": "serie",
+    "old": "18+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTYwNDU2MzY2._V1_SX300.jpg",
+    "info": "Good Morning, Verônica, created by Raphael Montes and Ilana Casoy, is a Brazilian crime drama series that premiered in 2020. The show follows a police clerk who becomes involved in an investigation of two women mistreated by a corrupt and powerful man."
+  },
+  {
+    "name": "The Invisible Woman",
+    "year": "2021",
+    "country": "Brazil",
+    "genre": "mystery",
+    "type": "serie",
+    "old": "16+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTYwNDU2MzY2._V1_SX300.jpg",
+    "info": "The Invisible Woman, created by Cláudia Jouvin, is a Brazilian mystery series that premiered in 2021. The show revolves around a woman who discovers that her life has been a lie and embarks on a journey to uncover the truth."
+  },
+  {
+    "name": "Sintonia",
+    "year": "2019",
+    "country": "Brazil",
+    "genre": "drama",
+    "type": "serie",
+    "old": "18+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTYwNDU2MzY2._V1_SX300.jpg",
+    "info": "Sintonia, created by Kondzilla, Guilherme Quintella, and Felipe Braga, is a Brazilian drama series that premiered in 2019. The show explores the interconnectedness of the music, drug trafficking, and religion scenes in São Paulo."
+  },
+  {
+    "name": "City of God",
+    "year": "2002",
+    "country": "Brazil",
+    "genre": "drama",
+    "type": "film",
+    "old": "18+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTYwNDU2MzY2._V1_SX300.jpg",
+    "info": "City of God, directed by Fernando Meirelles, is a 2002 crime drama. The film depicts the growth of organized crime in the Cidade de Deus suburb of Rio de Janeiro between the end of the '60s and the beginning of the '80s."
+  },
+  {
+    "name": "Central Station",
+    "year": "1998",
+    "country": "Brazil",
+    "genre": "drama",
+    "type": "film",
+    "old": "16+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTYwNDU2MzY2._V1_SX300.jpg",
+    "info": "Central Station, directed by Walter Salles, is a 1998 drama. The film follows a former school teacher who writes letters for illiterate people, and her connection with a young boy."
+  },
+  {
+    "name": "Elite Squad",
+    "year": "2007",
+    "country": "Brazil",
+    "genre": "action",
+    "type": "film",
+    "old": "18+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTI4MTY2NTY4MF5BMl5BanBnXkFtZTYwNDU2MzY2._V1_SX300.jpg",
+    "info": "Elite Squad, directed by José Padilha, is a 2007 action crime film. The movie explores the violent and dangerous work of a division of the Rio de Janeiro Police."
+  },
+  {
+    "name": "The Constant Gardener",
+    "year": "2005",
+    "country": "Brazil",
+    "genre": "mystery",
+    "type": "film",
+    "old": "16+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTI4MTY2NTY4MF5BMl5BanBnXkFtZTYwNDU2MzY2._V1_SX300.jpg",
+    "info": "The Constant Gardener, directed by Fernando Meirelles, is a 2005 mystery thriller. The film follows a British diplomat as he investigates the death of his wife in Kenya."
+  },
+  {
+    "name": "City of God",
+    "year": "2002",
+    "country": "Brazil",
+    "genre": "thriller",
+    "type": "film",
+    "old": "18+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTYwNDU2MzY2._V1_SX300.jpg",
+    "info": "City of God, directed by Fernando Meirelles, is a 2002 thriller. The film depicts the growth of organized crime in the Cidade de Deus suburb of Rio de Janeiro between the end of the '60s and the beginning of the '80s."
+  },
+  {
+    "name": "Rio",
+    "year": "2011",
+    "country": "Brazil",
+    "genre": "animation",
+    "type": "cartoon",
+    "old": "0+",
+    "photo": "http,//ia.media-imdb.com/images/M/MV5BMTkxNDYxOTMyMV5BMl5BanBnXkFtZTYwNDU2MzY2._V1_SX300.jpg",
+    "info": "Rio, directed by Carlos Saldanha, is a 2011 animated adventure. The film follows a domesticated macaw who learns to live in the wild. Rio received positive reviews for its animation and musical score."
+  },
+  {
+    "name": "Sacred Games",
+    "year": "2018",
+    "country": "India",
+    "genre": "action",
+    "type": "serie",
+    "old": "18+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTYwNDU2MzY2._V1_SX300.jpg",
+    "info": "Sacred Games, based on Vikram Chandra's novel, is an Indian action series that premiered in 2018. The show follows a troubled police officer as he tries to save Mumbai from being destroyed in 25 days."
+  },
+  {
+    "name": "Mirzapur",
+    "year": "2018",
+    "country": "India",
+    "genre": "thriller",
+    "type": "serie",
+    "old": "18+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTYwNDU2MzY2._V1_SX300.jpg",
+    "info": "Mirzapur, created by Karan Anshuman and Puneet Krishna, is an Indian thriller series that premiered in 2018. The show revolves around drugs, guns, and lawlessness in the Purvanchal region of Uttar Pradesh."
+  },
+  {
+    "name": "The Family Man",
+    "year": "2019",
+    "country": "India",
+    "genre": "drama",
+    "type": "serie",
+    "old": "16+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTYwNDU2MzY2._V1_SX300.jpg",
+    "info": "The Family Man, created by Raj Nidimoru and Krishna D.K., is an Indian drama series that premiered in 2019. The show follows a middle-class man secretly working as an intelligence officer trying to balance his family life and national security duties."
+  },
+  {
+    "name": "Delhi Crime",
+    "year": "2019",
+    "country": "India",
+    "genre": "crime",
+    "type": "serie",
+    "old": "18+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTYwNDU2MzY2._V1_SX300.jpg",
+    "info": "Delhi Crime, created by Richie Mehta, is an Indian crime series that premiered in 2019. The show is based on the Delhi gang-rape case and follows the investigation led by a female police officer."
+  },
+  {
+    "name": "Paatal Lok",
+    "year": "2020",
+    "country": "India",
+    "genre": "mystery",
+    "type": "serie",
+    "old": "18+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTYwNDU2MzY2._V1_SX300.jpg",
+    "info": "Paatal Lok, created by Sudip Sharma, is an Indian mystery series that premiered in 2020. The show follows a down-and-out cop who lands the case of an assassination attempt gone awry."
+  },
+  {
+    "name": "Breathe",
+    "year": "2018",
+    "country": "India",
+    "genre": "thriller",
+    "type": "serie",
+    "old": "16+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTYwNDU2MzY2._V1_SX300.jpg",
+    "info": "Breathe, created by Mayank Sharma, is an Indian thriller series that premiered in 2018. The show explores the lengths to which a father goes to save his ailing son."
+  },
+  {
+    "name": "Pororo the Little Penguin",
+    "year": "2003",
+    "country": "South Korea",
+    "genre": "animation",
+    "type": "cartoon",
+    "old": "0+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTYwNDU2MzY2._V1_SX300.jpg",
+    "info": "Pororo the Little Penguin is a South Korean animated cartoon series that debuted in 2003. The show follows Pororo and his friends as they embark on various adventures in their snowy village."
+  },
+  {
+    "name": "Tayo the Little Bus",
+    "year": "2010",
+    "country": "South Korea",
+    "genre": "animation",
+    "type": "cartoon",
+    "old": "0+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTYwNDU2MzY2._V1_SX300.jpg",
+    "info": "Tayo the Little Bus is a South Korean animated cartoon series that premiered in 2010. The show revolves around Tayo, a blue bus, and his vehicle friends as they learn important lessons."
+  },
+  {
+    "name": "Dibo the Gift Dragon",
+    "year": "2006",
+    "country": "South Korea",
+    "genre": "animation",
+    "type": "cartoon",
+    "old": "0+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTYwNDU2MzY2._V1_SX300.jpg",
+    "info": "Dibo the Gift Dragon is a South Korean animated cartoon series that first aired in 2006. The show follows Dibo, a friendly dragon, and his friends as they discover the joy of giving and receiving gifts."
+  },
+  {
+    "name": "Pucca",
+    "year": "2006",
+    "country": "South Korea",
+    "genre": "animation",
+    "type": "cartoon",
+    "old": "6+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTYwNDU2MzY2._V1_SX300.jpg",
+    "info": "Pucca is a South Korean animated cartoon series that started in 2006. The show follows Pucca, a young girl, and her humorous and often surreal adventures in pursuit of her ninja boyfriend, Garu."
+  },
+  {
+    "name": "Tobot",
+    "year": "2010",
+    "country": "South Korea",
+    "genre": "animation",
+    "type": "cartoon",
+    "old": "6+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTYwNDU2MzY2._V1_SX300.jpg",
+    "info": "Tobot is a South Korean animated cartoon series that debuted in 2010. The show features a young boy, Ryan, and his transforming robot friends known as Tobots as they protect the city from various threats."
+  },
+  {
+    "name": "Miraculous Ladybug",
+    "year": "2015",
+    "country": "France",
+    "genre": "animation",
+    "type": "cartoon",
+    "old": "6+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTYwNDU2MzY2._V1_SX300.jpg",
+    "info": "Miraculous Ladybug is a French animated superhero series that premiered in 2015. The show follows the adventures of two Parisian teenagers, Marinette and Adrien, who transform into the superheroes Ladybug and Cat Noir."
+  },
+  {
+    "name": "Heidi",
+    "year": "1974",
+    "country": "Germany",
+    "genre": "animation",
+    "type": "cartoon",
+    "old": "6+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTYwNDU2MzY2._V1_SX300.jpg",
+    "info": "Heidi is a classic German animated series that first aired in 1974. The show tells the story of Heidi, a young orphan girl who is sent to live with her grandfather in the Swiss Alps."
+  },
+   {
+    "name": "SpongeBob SquarePants",
+    "year": "1999",
+    "country": "USA",
+    "genre": "animation",
+    "type": "cartoon",
+    "old": "6+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTYwNDU2MzY2._V1_SX300.jpg",
+    "info": "SpongeBob SquarePants is an iconic American animated series that premiered in 1999. The show follows the underwater adventures of SpongeBob and his friends in the fictional underwater city of Bikini Bottom."
+  },
+  {
+    "name": "Tom and Jerry",
+    "year": "1940",
+    "country": "USA",
+    "genre": "animation",
+    "type": "cartoon",
+    "old": "6+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTYwNDU2MzY2._V1_SX300.jpg",
+    "info": "Tom and Jerry is a classic American animated series that first aired in 1940. The show revolves around the comedic rivalry between Tom, the cat, and Jerry, the mouse, in various slapstick situations."
+  },
+  {
+    "name": "The Simpsons",
+    "year": "1989",
+    "country": "USA",
+    "genre": "animation",
+    "type": "cartoon",
+    "old": "12+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTYwNDU2MzY2._V1_SX300.jpg",
+    "info": "The Simpsons is a long-running American animated sitcom that debuted in 1989. The show satirically depicts the lives of the Simpson family and the residents of the fictional town of Springfield."
+  },
+  {
+    "name": "Adventure Time",
+    "year": "2010",
+    "country": "USA",
+    "genre": "animation",
+    "type": "cartoon",
+    "old": "12+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTYwNDU2MzY2._V1_SX300.jpg",
+    "info": "Adventure Time is an American animated series that premiered in 2010. The show follows the adventures of Finn the Human and Jake the Dog in the post-apocalyptic Land of Ooo."
+  },
+  {
+    "name": "Rick and Morty",
+    "year": "2013",
+    "country": "USA",
+    "genre": "animation",
+    "type": "cartoon",
+    "old": "16+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTYwNDU2MzY2._V1_SX300.jpg",
+    "info": "Rick and Morty is an American animated science fiction sitcom that premiered in 2013. The show follows the adventures of an eccentric and alcoholic scientist, Rick, and his good-hearted but easily influenced grandson, Morty."
+  },
+  {
+    "name": "Huntik: Secrets & Seekers",
+    "year": "2009",
+    "country": "Italy",
+    "genre": "animation",
+    "type": "cartoon",
+    "old": "12+",
+    "photo": "http://ia.media-imdb.com/images/M/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTYwNDU2MzY2._V1_SX300.jpg",
+    "info": "Huntik: Secrets & Seekers is an Italian animated series that premiered in 2009. The show follows a group of Seekers who search for ancient magical amulets known as Titans."
+  }
+
+]

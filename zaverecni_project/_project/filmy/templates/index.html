@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            overflow: hidden;
+        }
+
+        header, nav, main, footer {
+            background-color: black;
+            color: white;
+            text-align: center;
+        }
+
+        nav {
+            display: flex;
+            justify-content: center;
+            padding: 1em 0;
+
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+        }
+
+        main {
+            padding: 2em;
+            font-size: 300%;
+            margin: 0.9em;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 20px;
+        }
+
+        footer {
+            padding: 1em 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+
+        .typing-text::after {
+            content: "|";
+            animation: cursorBlink 0.7s infinite;
+            display: inline-block;
+        }
+
+        @keyframes cursorBlink {
+            0%, 100% {
+                opacity: 0;
+            }
+            50% {
+                opacity: 1;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>MovieHR</h1>
+    </header>
+
+    <nav>
+        <a href="{% url 'allmovies' %}">All Movies</a>
+        <a href="{% url 'films' %}">Films</a>
+        <a href="{% url 'series' %}">Series</a>
+        <a href="{% url 'cartoons' %}">Cartoons</a>
+        <a href="{% url 'types' %}">Types</a>
+        <a href="{% url 'genres' %}">Genres</a>
+        <a href="{% url 'countries' %}">Countries</a>
+    </nav>
+
+    <main>
+        <p class="typing-text"></p>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 MovieHR. All rights reserved.</p>
+    </footer>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            const text = "Enjoy your time watching a movie with Movie HR ";
+            const typingText = document.querySelector(".typing-text");
+            let index = 0;
+
+            function type() {
+                typingText.textContent += text[index];
+                index++;
+
+                if (index < text.length) {
+                    setTimeout(type, 100);
+                } else {
+                    typingText.textContent = typingText.textContent.slice(0, -1);
+                }
+            }
+
+            type();
+
+            setInterval(function () {
+                typingText.textContent = '';
+                index = 0;
+                type();
+            }, 30000);
+        });
+    </script>
+</body>
+</html>
