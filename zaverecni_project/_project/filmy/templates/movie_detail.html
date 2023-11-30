@@ -11,51 +11,84 @@
             overflow: hidden;
         }
 
-        header, section, footer {
+        header, nav, main, footer {
             background-color: black;
             color: white;
             text-align: center;
         }
 
-        header {
+        nav {
+            display: flex;
+            justify-content: center;
             padding: 1em 0;
         }
 
-        section {
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+        }
+
+        main {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
             padding: 2em;
-            text-align: center;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
+            text-align: left;
+        }
+
+        main h2 {
+            color: white;
         }
 
         img {
             width: 100%;
-            max-width: 400px;
+            max-width: 300px; /* Adjust the maximum width of the image */
             height: auto;
             display: block;
             margin: 0 auto;
         }
 
+        section {
+            text-align: left;
+        }
+
         footer {
             padding: 1em 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
         }
     </style>
 </head>
 <body>
     <header>
-        <h1>{{ movie.name }}</h1>
+        <h1>MovieHR</h1>
     </header>
 
-    <section>
+    <nav>
+        <a href="{% url 'homepage' %}">Home</a>
+        <a href="{% url 'allmovies' %}">All Movies</a>
+        <a href="{% url 'films' %}">Films</a>
+        <a href="{% url 'series' %}">Series</a>
+        <a href="{% url 'cartoons' %}">Cartoons</a>
+        <a href="{% url 'types' %}">Types</a>
+        <a href="{% url 'genres' %}">Genres</a>
+        <a href="{% url 'countries' %}">Countries</a>
+    </nav>
+
+    <main>
         <img src="{{ movie.photo.url }}" alt="{{ movie.name }}"/>
-        <p><strong>Year:</strong> {{ movie.year }}</p>
-        <p><strong>Type:</strong> {{ movie.type.name_type }}</p>
-        <p><strong>Country:</strong> {{ movie.country.name_country}}</p>
-        <p><strong>Age Rating:</strong> {{ movie.old }}</p>
-        <p><strong>Genre:</strong> {{ movie.genre.name_genre}}</p>
-        <p><strong>Info:</strong> {{ movie.info }}</p>
-    </section>
+        <section>
+            <h2>{{ movie.name }}</h2>
+            <p><strong>Year:</strong> {{ movie.year }}</p>
+            <p><strong>Type:</strong> {{ movie.type.name_type }}</p>
+            <p><strong>Country:</strong> {{ movie.country.name_country}}</p>
+            <p><strong>Age Rating:</strong> {{ movie.old }}</p>
+            <p><strong>Genre:</strong> {{ movie.genre.name_genre}}</p>
+            <p><strong>Info:</strong> {{ movie.info }}</p>
+        </section>
+    </main>
 
     <footer>
         <p>&copy; 2023 MovieHR. All rights reserved.</p>
